@@ -3,16 +3,21 @@
 [![Followers](https://img.shields.io/github/followers/mlhacks?label=Followers&style=flat-square)](https://github.com/mlhacks)
 
 ## About
-👋 Heyo, I'm [Your Name]. I'm a [Your Title] at [Your Company]. I work on [describe your work and technical focus, e.g., "web services, demos, and hackathon projects with a focus on Python, JavaScript/TypeScript, and lightweight web apps."]
+👋 Hey, I'm Edmund Dong. I am based in Tempe, Arizona, and I do things.
 
-- 📍 Location: [Your City, State]
-- 🎓 Education: [Your University or School]
-- 📅 Hacking Since: [Year you started coding/hacking]
+- 📍 Location: Tempe, Arizona
+- 🌐 Website: [eedong.dev](https://eedong.dev)
+- 🧑‍💻 GitHub: [@EdmundDong](https://github.com/EdmundDong)
+- 📅 GitHub member since May 2015
+- 🚀 Open to opportunities / hireable
 
-## Featured Projects
-- 🎲 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_1
-- 🛠️ [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_2
-- 🤖 [Project Name] — [Brief, one-sentence description of the project.] ([Language]) — github.com/YOUR_USERNAME/YOUR_REPO_3
+## Education
+- 🎓 BS in Computer Science, Arizona State University
+- 🎓 MS in Computer Science, Arizona State University
+
+## Experience
+- 💼 Former Software Engineer at a semiconductor company
+- ⚙️ Former Director of Operations at sunhacks
 
 ## Tech & Interests
 - 🧰 Languages: [Language 1], [Language 2], [Language 3]
